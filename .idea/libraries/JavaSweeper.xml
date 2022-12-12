@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaSweeper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JavaSweeper/out/artifacts/JavaSweeper_jar/JavaSweeper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
